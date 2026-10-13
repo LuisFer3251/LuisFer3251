@@ -81,7 +81,7 @@ Projeto acadêmico desenvolvido com Laravel, voltado à prática de desenvolvime
 
 Repositório destinado à apresentação dos meus projetos, tecnologias, experiências práticas e evolução como desenvolvedor.
 
-🔗 [Acessar repositório](https://github.com/LuisFer3251/portfolio)
+🔗 [Acessar repositório](https://github.com/LuisFer3251/LuisFer3251)
 
 ---
 
