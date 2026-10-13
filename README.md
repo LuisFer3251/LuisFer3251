@@ -85,25 +85,39 @@ Repositório destinado à apresentação dos meus projetos, tecnologias, experi�
 
 ---
 
-## 📊 Estatísticas do GitHub
+🎯 O que estou desenvolvendo
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LuisFer3251&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisFer3251&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais utilizadas">
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Desenvolvimento Full Stack</h3>
+      Construção de aplicações web, integração entre interfaces, APIs e bancos de dados.
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 Inteligência Artificial</h3>
+      Integração de modelos de IA em aplicações, com foco em soluções úteis para o dia a dia.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗄️ Banco de dados</h3>
+      Modelagem, consultas SQL e integração de aplicações com serviços de persistência de dados.
+    </td>
+    <td width="50%" valign="top">
+      <h3>📚 Aprendizado contínuo</h3>
+      Evolução técnica por meio de projetos práticos, boas práticas de programação e novas tecnologias.
+    </td>
+  </tr>
+</table>
 
----
+🤝 Oportunidades profissionais
 
-## 📫 Vamos nos conectar?
+Busco uma oportunidade na área de desenvolvimento de software para aplicar meus conhecimentos, colaborar com uma equipe e continuar evoluindo profissionalmente.
 
-Estou aberto a oportunidades, conexões profissionais e projetos que contribuam para meu desenvolvimento na área de tecnologia.
+Tenho interesse em projetos que envolvam desenvolvimento web, integração de sistemas, APIs e bancos de dados.
+
+Vamos conversar? Entre em contato pelos links abaixo.
 
 - 💼 LinkedIn: [Luis Fernando](https://www.linkedin.com/in/luisfer3251/)
-- 💻 GitHub: [LuisFer3251](https://github.com/LuisFer3251)
 - 📧 E-mail: [luisfernando.s.santos04@gmail.com](mailto:luisfernando.s.santos04@gmail.com)
 
----
-
-<p align="center">
-  <i>"Evoluindo a cada projeto, transformando conhecimento em soluções."</i>
-</p>
