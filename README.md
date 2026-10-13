@@ -11,9 +11,10 @@
   <a href="https://www.linkedin.com/in/luisfer3251/">
     <img src="https://img.shields.io/badge/LinkedIn-Luis%20Fernando-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="mailto:luisfernando.s.santos04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=luisfernando.s.santos04%40gmail.com&su=Contato%20profissional%20-%20Luis%20Fernando" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-Enviar%20mensagem-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar mensagem pelo Gmail">
+</a>
+
 </p>
 
 ---
